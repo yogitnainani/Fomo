@@ -1,7 +1,10 @@
 .home {
-    height: 50.625em;
+    height: 100%;
 }
 
 .homepageImg {
+    position: relative;
     max-width: 100%;
+    top: 4px;
 }
+
